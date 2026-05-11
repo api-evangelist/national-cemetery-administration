@@ -28,6 +28,19 @@ common:
     url: https://www.data.va.gov/
   - type: ParentAgency
     url: https://www.va.gov/
+  - type: Integrations
+    url: https://www.cem.va.gov/integrations
+integrations:
+  - name: Email
+  - name: Facebook
+  - name: Twitter
+  - name: Flickr
+  - name: Youtube
+  - name: Instagram
+  - name: NCA Cemetery Donations. E Donate badge.
+  - name: NCA Office Donations. E Donate badge.
+  - name: 'X''s'
+  - name: VA News
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
