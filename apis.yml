@@ -8,7 +8,18 @@ description: >-
   Nationwide Gravesite Locator and Cemetery Finder, with broader data
   available through VA Open Data.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/national-cemetery-administration.png
 url: https://www.cem.va.gov/
 created: '2024-12-25'
 modified: '2026-04-28'
